@@ -8,6 +8,7 @@ const ItemController = require("../controllers/itemController")
 
 route.get('/all-items', ItemController.getAllItem)
 
+route.get("/items" , ItemController.getSearchedItems)
 
 
 
