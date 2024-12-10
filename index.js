@@ -24,7 +24,9 @@ main().then(()=>console.log('mongodb connected successfully')).catch(err => cons
 
 //routes
 const ItemRoutes =require("./src/routes/itemRoute");
+const CategoryRoutes = require("./src/routes/categoryRoute")
 app.use('/api',ItemRoutes)
+app.use('/api/',CategoryRoutes)
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
