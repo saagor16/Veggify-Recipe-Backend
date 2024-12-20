@@ -80,4 +80,4 @@ Feel free to fork this repository and make pull requests.
 ## Author
 - **Sagor**
   - [GitHub](https://github.com/saagor16)
-  - [LinkedIn](https://www.linkedin.com/in/sagor/)
+  - [LinkedIn](https://www.linkedin.com/in/saagor/)
